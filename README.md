@@ -10,3 +10,19 @@ This is a SuperTest demo with [Grunt](http://www.gruntjs.net/)
 grunt
 ```
 
+# Result
+
+```
+➜  SuperTestDemo git:(master) ✗ grunt
+Running "mochaTest:test" (mochaTest) task
+
+
+  Test Demo.
+    ✓ Visit https://github.com/aimer1124/SuperTestDemo (4747ms)
+
+
+  1 passing (5s)
+
+
+Done, without errors.
+```
