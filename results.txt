@@ -1,8 +1,8 @@
 
 [0m[0m
 [0m  Test Demo.[0m
-[2K[0G  [32m  ✓[0m[90m Visit https://github.com/aimer1124/SuperTestDemo[0m[31m (1675ms)[0m
+[2K[0G  [32m  ✓[0m[90m Visit https://github.com/aimer1124/SuperTestDemo[0m[31m (4747ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (2s)[0m
+[92m [0m[32m 1 passing[0m[90m (5s)[0m
 
