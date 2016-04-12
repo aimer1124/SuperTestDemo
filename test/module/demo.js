@@ -5,6 +5,7 @@ var config = require('../config/endpoints'),
 
 
 describe('Test Demo.', function() {
+    this.timeout(10000);
     it('Visit https://github.com/aimer1124/SuperTestDemo', function(done) {
         request.get('')
             .expect(200)
