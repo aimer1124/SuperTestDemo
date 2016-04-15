@@ -1,9 +1,8 @@
 
 [0m[0m
 [0m  Test Demo.[0m
-  [36m  - Visit master[0m
+[2K[0G  [32m  ✓[0m[90m Visit master[0m[31m (1714ms)[0m
 
 
-[92m [0m[32m 0 passing[0m[90m (3ms)[0m
-[36m [0m[36m 1 pending[0m
+[92m [0m[32m 1 passing[0m[90m (2s)[0m
 
