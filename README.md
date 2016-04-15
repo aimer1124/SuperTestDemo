@@ -13,16 +13,43 @@ grunt
 # Result
 
 ```
-➜  SuperTestDemo git:(master) ✗ grunt
+➜  SuperTestDemo git:(uploadFile) ✗ grunt
 Running "mochaTest:test" (mochaTest) task
 
 
   Test Demo.
-    ✓ Visit https://github.com/aimer1124/SuperTestDemo (4747ms)
+    - Visit master
 
 
-  1 passing (5s)
+  0 passing (4ms)
+  1 pending
 
 
 Done, without errors.
+
+```
+
+# Switch different Environment
+
+* Default is master
+* Switch ENV to `branch`
+ * type command in command line `export NODE_ENV=branch`
+ * use `grunt`
+ 
+```
+➜  SuperTestDemo git:(uploadFile) ✗ export NODE_ENV=branch
+➜  SuperTestDemo git:(uploadFile) ✗ grunt
+Running "mochaTest:test" (mochaTest) task
+
+
+Test Demo.
+ - Visit branch
+
+
+0 passing (3ms)
+1 pending
+
+
+Done, without errors.
+
 ```

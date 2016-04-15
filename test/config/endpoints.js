@@ -1,7 +1,7 @@
 module.exports = {
     host : {
-        demo: 'https://github.com/aimer1124/SuperTestDemo',
-        demo_branches: 'https://github.com/aimer1124/SuperTestDemo/branches/all'
+        master: 'https://github.com/aimer1124/SuperTestDemo',
+        branch: 'https://github.com/aimer1124/SuperTestDemo/tree/uploadFile'
     },
-    env: process.env.NODE_ENV || 'demo'
-}
+    env: process.env.NODE_ENV || 'master'
+};
