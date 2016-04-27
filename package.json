@@ -1,6 +1,6 @@
 {
-  "name": "emall-api-test",
-  "author": "emall",
+  "name": "SuperTestWithGrunt",
+  "author": "Yuanjie",
   "version": "0.0.1",
   "dependencies": {
     "supertest": "~1.1.0",
