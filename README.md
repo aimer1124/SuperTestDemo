@@ -7,6 +7,7 @@ This is a SuperTest demo with [Grunt](http://www.gruntjs.net/) for API testing.
 # How to use
 
 ```
+npm install
 grunt
 ```
 
