@@ -3,8 +3,9 @@
   "author": "Yuanjie",
   "version": "0.0.1",
   "dependencies": {
-    "supertest": "~1.1.0",
     "chai": "~3.2.0",
+    "mocha": "^2.4.5",
+    "supertest": "~1.1.0",
     "supertest-as-promised": "~2.0.2"
   },
   "devDependencies": {
