@@ -19,16 +19,15 @@ grunt
 # Result
 
 ```
-➜  SuperTestDemo git:(uploadFile) ✗ grunt
+➜  SuperTestWithGrunt git:(master) ✗ grunt
 Running "mochaTest:test" (mochaTest) task
 
 
   Test Demo.
-    - Visit master
+    ✓ Visit master (1640ms)
 
 
-  0 passing (4ms)
-  1 pending
+  1 passing (2s)
 
 
 Done, without errors.
@@ -43,17 +42,16 @@ Done, without errors.
  * use `grunt`
  
 ```
-➜  SuperTestDemo git:(uploadFile) ✗ export NODE_ENV=branch
-➜  SuperTestDemo git:(uploadFile) ✗ grunt
+➜  SuperTestWithGrunt git:(master) export NODE_ENV=branch
+➜  SuperTestWithGrunt git:(master) grunt
 Running "mochaTest:test" (mochaTest) task
 
 
-Test Demo.
- - Visit branch
+  Test Demo.
+    ✓ Visit branch (1485ms)
 
 
-0 passing (3ms)
-1 pending
+  1 passing (1s)
 
 
 Done, without errors.
