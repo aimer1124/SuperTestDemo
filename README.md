@@ -6,8 +6,13 @@ This is a SuperTest demo with [Grunt](http://www.gruntjs.net/) for API testing.
 
 # How to use
 
+## Install dependencies
 ```
 npm install
+```
+## Run
+
+```
 grunt
 ```
 
